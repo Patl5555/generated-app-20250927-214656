@@ -1,6 +1,6 @@
 # Context Architect: Visual MCP Server Builder
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Patl5555/generated-app-20250927-214656)
 
 Context Architect is a sophisticated, visually-driven web application designed to dramatically simplify the creation, configuration, and deployment of Model Context Protocol (MCP) servers. Built on Cloudflare's serverless infrastructure, it provides developers with an elegant, intuitive interface to architect the context for AI agents without needing deep expertise in the underlying protocols. The application is centered around a powerful visual tool builder that offers real-time code generation, schema validation, and interactive guidance.
 
@@ -91,7 +91,7 @@ This project is designed for easy deployment to the Cloudflare global network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Patl5555/generated-app-20250927-214656)
 
 ## 📂 Project Structure
 
